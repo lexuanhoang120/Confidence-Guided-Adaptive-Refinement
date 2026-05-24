@@ -1,4 +1,3 @@
-# VLI-25-06-Hoang
 
 # CGAR: Confidence-Guided Adaptive Refinement for GUI Grounding
 
